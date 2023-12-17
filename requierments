@@ -1,0 +1,10 @@
+torch
+pandas
+numpy
+pytorch_lightning
+torchmetrics
+transformers
+sklearn
+pytorch_transformers
+typing
+pathlib
